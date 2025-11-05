@@ -1,0 +1,11 @@
+{
+  "token": "PLACEHOLDER",
+  "guild_id": "PLACEHOLDER",
+  "channel_id": "PLACEHOLDER",
+  "authorized_roles": [
+    "1"
+  ],
+  "ticket_category_id": "PLACEHOLDER",
+  "alert_user_id": "PLACEHOLDER",
+  "debug": true
+}

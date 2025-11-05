@@ -1,0 +1,27 @@
+[2025-11-05T00:13:27.372701] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:13:27.373685] ⚠️ Slash sync error: 'guild_id'
+[2025-11-05T00:13:27.373685] ⚠️ update_stock_message error: 'guild_id'
+[2025-11-05T00:14:18.912125] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:14:19.112602] 🌐 Slash commands synced.
+[2025-11-05T00:14:19.113586] ⚠️ update_stock_message error: 'NoneType' object has no attribute 'get_channel'
+[2025-11-05T00:16:05.419297] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:16:05.667633] 🌐 Slash commands synced.
+[2025-11-05T00:16:05.667633] ⚠️ Could not find guild 1435260438383300640 (bot may not be in that server)
+[2025-11-05T00:19:11.101005+00:00] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:19:11.197746+00:00] 🌐 Slash commands synced (guild-scoped).
+[2025-11-05T00:19:11.684950+00:00] 🆕 Posted new stock message.
+[2025-11-05T00:20:20.700955+00:00] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:20:20.797204+00:00] 🌐 Slash commands synced (guild-scoped).
+[2025-11-05T00:20:21.153768+00:00] 🆕 Posted new stock message.
+[2025-11-05T00:20:36.706406+00:00] 📩 DM sent about new ticket e
+[2025-11-05T00:23:42.157815+00:00] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:23:42.348305+00:00] 🌐 Slash commands synced (guild-scoped).
+[2025-11-05T00:23:42.706347+00:00] ♻️ Updated stock message.
+[2025-11-05T00:24:11.895342+00:00] ♻️ Updated stock message.
+[2025-11-05T00:24:35.248832+00:00] ♻️ Updated stock message.
+[2025-11-05T00:25:10.644610+00:00] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:25:10.734873+00:00] 🌐 Slash commands synced (guild-scoped).
+[2025-11-05T00:25:11.193655+00:00] 🆕 Posted new stock message.
+[2025-11-05T00:27:43.959257+00:00] ✅ Logged in as TGP - Store#2013 (1435419817417900264)
+[2025-11-05T00:27:44.172686+00:00] 🌐 Slash commands synced (guild-scoped).
+[2025-11-05T00:27:44.762109+00:00] ♻️ Updated stock message.
